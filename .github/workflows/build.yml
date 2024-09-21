@@ -10,6 +10,8 @@ jobs:
   execute:
     runs-on: ubuntu-latest
     concurrency: post-${{ github.ref }}
+    permissions:
+      contents: write
     steps:
       - uses: adrn-blog/execute-post@main
         with:
