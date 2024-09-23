@@ -1,4 +1,4 @@
-# Some toy examples and pitfalls of the Fisher information matrix
+# Toy examples and pitfalls of the Fisher information matrix
 
 See the published version of this post at: https://adrian.pw/blog/fisher-information-toy
 

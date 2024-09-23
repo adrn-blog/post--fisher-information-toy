@@ -4,5 +4,5 @@ day: 23
 month: 9
 python_version: '3.12'
 slug: fisher-information-toy
-title: Some toy examples and pitfalls of the Fisher information matrix
+title: Toy examples and pitfalls of the Fisher information matrix
 year: 2024
